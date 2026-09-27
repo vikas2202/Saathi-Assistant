@@ -1,0 +1,21 @@
+{
+  "camera_index": 0,
+  "frame_width": 640,
+  "frame_height": 480,
+  "target_fps": 12,
+  "recognition_threshold": 0.5,
+  "recognition_margin": 0.08,
+  "stable_frames": 5,
+  "greeting_cooldown_seconds": 90,
+  "enrollment_samples": 10,
+  "enrollment_timeout_seconds": 35,
+  "min_face_pixels": 85,
+  "min_blur_score": 45,
+  "min_brightness": 40,
+  "max_brightness": 220,
+  "chat_model": "gpt-4.1-mini",
+  "transcription_model": "gpt-4o-mini-transcribe",
+  "microphone_index": null,
+  "record_seconds": 6,
+  "objects_model": null
+}
